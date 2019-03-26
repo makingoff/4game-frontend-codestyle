@@ -35,7 +35,7 @@ Svg нужно оптимизировать в [svgo](https://jakearchibald.gith
 В коде используем конструкцию:
 ```
 <video poster="./assets/video/awesome-video-poster.jpg">
-   <source src="./assets/video/awesome-video.mp4" type="video/mp4">
-   <source src="./assets/video/awesome-video.webm" type="video/webm">
-  </video>
+  <source src="./assets/video/awesome-video.mp4" type="video/mp4">
+  <source src="./assets/video/awesome-video.webm" type="video/webm">
+</video>
 ```
